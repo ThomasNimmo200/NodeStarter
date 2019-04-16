@@ -5,9 +5,9 @@ In this repository you will find a basic starter app for node.js web scraper. It
 Could you please process the html and print JSON file with
 
 1. Each product as it's own object containing.
-    1-1. title
-    1.2. image url
-    1.3. price and any discount. 
+    1. title
+    2. image url
+    3. price and any discount. 
 2. The total number of items
 3. The average price of each item.
 
